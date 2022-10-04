@@ -7,7 +7,8 @@ My main interests are Computer Vision and Computer Graphics, and I really enjoy 
 
 # Projects and Research 🧪
 
-A list of projects that I have worked on:
+I am something between a scientist and an engineer, meaning that I often have to switch between pure software development and scientific research. 
+A list of projects that I have worked on, including both development projects and research:
 
 ## Pipelime 🍋
 
