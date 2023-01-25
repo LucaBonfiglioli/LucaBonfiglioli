@@ -25,6 +25,8 @@ I write a lot of code, which is an activity that I enjoy but that I would like t
 
 ### Cursed VGG Net
 
+This is some creepy code I found attached to some research paper. They even provided a spare copy of line 12, in case you lose one.
+
 <details markdown="1"> 
    <summary>CODE [You don't have to do this]</summary>
    
@@ -51,4 +53,20 @@ class vggNet(nn.Module):
 
 </details>
 
-This is some creepy code I found attached to some research paper. They even provided a spare copy of line 12, in case you lose one.
+### "Cursed fix for autoformatting"
+
+I saw **someone** using this trick to prevent the import auto-sorting tool to move the blenderproc import line.
+Definitely cursed. 👀
+
+```python
+import blenderproc as bproc
+
+# Cursed fix for autoformatting
+_ = ...
+
+import gc
+import random
+from pathlib import Path
+```
+
+</details>
