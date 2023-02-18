@@ -19,6 +19,10 @@ as flexible as possible and to fit to every possible use case. It also comes wit
 
 [Eyecandies](https://eyecan-ai.github.io/eyecandies) is a fully synthetic, multi-modal, multi-light dataset for unsupervised **anomaly detection** with automatically labelled ground-truth annotations. It was published with an ACCV 2022 paper. Send us your results!
 
+## NNViz 🔍
+
+[NNViz](https://github.com/lucabonfiglioli/nnviz) is a neural network visualization tool that can be used to quickly inspect the insides of a neural network. Currently works on pytorch models and renders them as PDFs. NNviz is borderline toy-project, but I plan to maintain it over time. 
+
 # Cursed Stuff :skull:
 
 I write a lot of code, which is an activity that I enjoy but that I would like to reduce in the future. But beside writing, I also **READ** a lot of code, some of which happens to be... how to put it... **CURSED**.
