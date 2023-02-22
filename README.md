@@ -77,5 +77,5 @@ from pathlib import Path
 
 ### "The Open Source" is not going to miss me 🤡
 
-Because [it's my fault](https://github.com/Textualize/rich/issues/2712) if people can't program.
+Because [it's my fault](https://github.com/Textualize/rich/issues/2712) that people can't program.
 <img width="770" alt="image" src="https://user-images.githubusercontent.com/6567253/220726726-85e3b2a1-7937-4f6b-bbb8-22db256c504c.png">
