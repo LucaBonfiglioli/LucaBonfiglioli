@@ -1,8 +1,6 @@
 # Hello 👋
 
 Hi, I am Luca and I work as software engineer at [Eyecan.ai](https://eyecan.ai) :rocket:. 
-I specialize in technological singularities, developed a bunch of them in my garage - but I cannot show them to you. 
-
 My main interests are Computer Vision and Computer Graphics, and I really enjoy automating stuff.
 
 # Projects and Research 🧪
