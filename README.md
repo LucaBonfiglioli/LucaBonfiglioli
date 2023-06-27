@@ -78,11 +78,11 @@ from pathlib import Path
 Because [it's my fault](https://github.com/Textualize/rich/issues/2712) that people can't program.
 <img width="770" alt="image" src="https://user-images.githubusercontent.com/6567253/220726726-85e3b2a1-7937-4f6b-bbb8-22db256c504c.png">
 
-### The curse of the Headless Renderer
+### The curse of the Headless Renderer 💀
 
 While AI rapidly makes us reach higher and higher peaks in technological advancement on a daily basis, assigning colors to pixels still remains an open problem. 
 It is the case of Blender engine "Eevee", that requires **A Fucking Lightbulb** to be connected to your VGA adapter, God knows why. I don't think I have ever 
-seen a more retarded solution to a problem in my entire life.
+seen a more regarded solution to a problem in my entire life.
 
 ![image](https://github.com/LucaBonfiglioli/LucaBonfiglioli/assets/6567253/e56469d2-16e3-4997-a841-a13b2ce4c094)
 
