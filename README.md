@@ -1,7 +1,6 @@
 # Hello 👋
 
 Hi, I am Luca and I work as software engineer at [Eyecan.ai](https://eyecan.ai) :rocket:. 
-My main interests are Computer Vision and Computer Graphics, and I really enjoy automating stuff.
 
 # Projects and Research 🧪
 
@@ -20,3 +19,7 @@ as flexible as possible and to fit to every possible use case. It also comes wit
 ## NNViz 🔍
 
 [NNViz](https://github.com/lucabonfiglioli/nnviz) is a neural network visualization tool that can be used to quickly inspect the insides of a neural network. Currently works on pytorch models and renders them as PDFs. NNviz is borderline toy-project, but I plan to maintain it over time. 
+
+## Pipewine 🍷
+
+[Pipewine](https://lucabonfiglioli.github.io/pipewine) is a complete rewrite of the Pipelime library aimed at improving various aspects of the original design including type safety, reducing dependencies, decoupling and rethinking various library components.   
